@@ -30,8 +30,7 @@ Welcome to Software Security Lab.
 - malware classification using machine learning
 - symbolic execution with reinforcement learning
 - Android malware analysis using multi-modal neural networks
-- AI-based network security & Intrusion Detection
-- Anomaly Detection
+- AI-based network security & Intrusion Detection, Anomaly Detection
 
 #### `IoT Security & Firmware Analysis`
 - Security analysis of IoT devices and IoT services
