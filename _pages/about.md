@@ -27,8 +27,8 @@ Welcome to Software Security Lab.
 
 #### `AI-based Cyber Security(Machine Learning & Deep Learning)`
 - AI-based malware analysis
-- malware classification using machine learning
-- symbolic execution with reinforcement learning
+- Malware classification using machine learning
+- Symbolic execution with reinforcement learning
 - Android malware analysis using multi-modal neural networks
 - AI-based network security & Intrusion Detection, Anomaly Detection
 
