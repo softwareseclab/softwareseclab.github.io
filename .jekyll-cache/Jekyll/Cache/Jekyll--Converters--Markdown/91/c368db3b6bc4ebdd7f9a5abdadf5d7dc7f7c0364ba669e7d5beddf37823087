@@ -1,0 +1,48 @@
+I"l<p>Welcome to Software Security Lab.</p>
+
+<p><img src="https://img.freepik.com/premium-photo/hacker-attack-computer-hardware-microchip-while-process-data-through-internet-network-3d-rendering-insecure-cyber-security-exploit-database-breach-concept-virus-malware-unlock-warning-screen_44651-655.jpg?w=2000" alt="" width="80" height="400" /></p>
+
+<p><br /></p>
+
+<h3 id="research-areas"><strong><em>Research Areas</em></strong></h3>
+<hr />
+
+<h4 id="malware-analysis--binary-anaysis"><code class="language-plaintext highlighter-rouge">Malware Analysis &amp; Binary Anaysis</code></h4>
+<ul>
+  <li>Analyze binary executable files</li>
+  <li>Various static/dynamic features of executable files are considered</li>
+  <li>Various machine learning techniques are tested to improve analysis accuracy</li>
+  <li>Analysis tools: PEiD, PEview, IDA Pro, Cuckoo Sandbox, PIN tool, Ollydbg, …</li>
+  <li>Topics: CFG analysis, API-based analysis, frequency-based analysis, Visualization, …</li>
+</ul>
+
+<h4 id="ai-based-cyber-securitymachine-learning--deep-learning"><code class="language-plaintext highlighter-rouge">AI-based Cyber Security(Machine Learning &amp; Deep Learning)</code></h4>
+<ul>
+  <li>AI-based malware analysis</li>
+  <li>malware classification using machine learning</li>
+  <li>symbolic execution with reinforcement learning</li>
+  <li>Android malware analysis using multi-modal neural networks</li>
+  <li>AI-based network security &amp; Intrusion Detection</li>
+  <li>Anomaly Detection</li>
+</ul>
+
+<h4 id="iot-security--firmware-analysis"><code class="language-plaintext highlighter-rouge">IoT Security &amp; Firmware Analysis</code></h4>
+<ul>
+  <li>Security analysis of IoT devices and IoT services</li>
+  <li>Firmware binary analysis</li>
+  <li>Firmware vulnerability analysis</li>
+  <li>Fuzzing testing</li>
+</ul>
+
+<h4 id="automobile-security"><code class="language-plaintext highlighter-rouge">Automobile Security</code></h4>
+<ul>
+  <li>In-vehicle network(CAN) anomaly detection</li>
+  <li>Research on car hacking and defense methods</li>
+</ul>
+
+<p><br /></p>
+
+<h3 id="projects"><strong><em>Projects</em></strong></h3>
+<hr />
+<p>작성 중…</p>
+:ET
