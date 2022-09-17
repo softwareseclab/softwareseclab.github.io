@@ -44,7 +44,3 @@ Welcome to Software Security Lab.
 - Research on car hacking and defense methods
 
 <br>
-
-### ***Projects***
---- 
-작성 중...

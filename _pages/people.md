@@ -8,7 +8,7 @@ nav_order: 1
 ---
 #### ***`Professor`***
 ---
-![](http://past.krnet.or.kr/board/data/dprogram/1397/A3-1-%C0%D3%C0%BB%B1%D4.jpg){: width="200" height="250"}
+![]({{site.url}}/assets/img/prof.jpeg){: width="200" height="250"}
 - 임을규 교수 (한양대학교 컴퓨터·소프트웨어학과 주임교수)
 
 <br>
