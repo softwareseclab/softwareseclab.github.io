@@ -15,7 +15,7 @@ Welcome to Software Security Lab.
 
 <br>
 
-### ***Research Areas***
+### ***Our Research Areas***
 --- 
 
 #### `Malware Analysis & Binary Anaysis`
