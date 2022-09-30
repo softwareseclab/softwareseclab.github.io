@@ -1,1 +1,1 @@
-## Software Security Lab
+## Software Security Lab, Hanyang University
