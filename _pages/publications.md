@@ -79,6 +79,7 @@ nav_order: 2
 - BooJoong Kang, Hye Seon Kim, Eui-Hyung Kim, Hyong-Shik Kim, Eul Gyu Im, "RFID authentication protocol for low-cost RFID tags", Information-an International Interdisciplinary Journal, 14.6, 2041-2060, 2011
 - Bo Li, Eul Gyu Im, "A signature matching optimization policy for anti-virus programs", 3rd International Conference on Computer Research and Development, 1, 1-3, 2011
 
+---
 
 #### ***Domestic*** 
 - Su Min Lim, Eul Gyu Im, "Proposal of Process Hollowing Attack Detection Using Process Virtual Memory Data Similarity", Journal of the Korea Institute of Information Security & Cryptology, 29.2, 431-438, 2019
