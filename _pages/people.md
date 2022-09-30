@@ -67,7 +67,7 @@ nav_order: 1
   - AI-based Automotive Security, CAN
 
 - **Rahimov Faridun**
-  - Department of Computer Science
+  - Department of Computer Science (컴퓨터·소프트웨어학과)
   - ***<a href="mailto:farid01@hanyang.ac.kr">farid01@hanyang.ac.kr</a>***
   - Dynamic Analysis of Malware, Software Vulnerability Analysis
 
