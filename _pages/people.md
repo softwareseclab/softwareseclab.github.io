@@ -37,7 +37,7 @@ nav_order: 1
 #### ***Ph.D. students***
 - **Inwoo Ro (노인우)**
   - Lead Data Scientist, Naver Webtoon / Department of Computer Science (컴퓨터·소프트웨어학과)<br>
-  - ***<a href="mailto:nwoo13@hanyang.ac.kr ">nwoo13@hanyang.ac.kr</a>***
+  - ***<a href="mailto:inwoo13@hanyang.ac.kr ">inwoo13@hanyang.ac.kr</a>***
   - FDS(Fraud Detection System), Abnormal Detection, User Profiling 
 - **Doo-Seop Choi (최두섭)**
   - Department of Computer Science (컴퓨터·소프트웨어학과)
