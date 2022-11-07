@@ -8,8 +8,6 @@ nav: true
 nav_order: 2
 ---
 
-#### ***`Papers`***
----    
 #### ***International*** 
 - Inwoo Ro, Boojoong Kang, Choonghyun Seo, Eul Gyu Im, "Detection Method for Randomly Generated User IDs: Lift the Curse of Dimensionality", IEEE Access, 10., 86020-86028, 2022
 - Seong Il Bae, Gyu Bin Lee, Eul Gyu Im, "Ransomware detection using machine learning algorithms", Concurrency and Computation: Practice and Experience, 32.18, e5422, 2020

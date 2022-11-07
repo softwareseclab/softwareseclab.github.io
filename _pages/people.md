@@ -6,10 +6,10 @@ description:
 nav: true
 nav_order: 1
 ---
-#### ***`Faculty`***
+#### ***`Professor`***
 ---
 ![]({{site.url}}/assets/img/prof.jpeg){: width="200" height="250"}
-#### ***Professor***
+
 **Eul Gyu Im (임을규)**
   - [Department of Computer Science, Hanyang University](https://www.hanyang.ac.kr/web/eng)<br>
   - ***<a href="mailto:img@hanyang.ac.kr">img@hanyang.ac.kr</a>***
@@ -32,9 +32,9 @@ nav_order: 1
 
 <br>
 
-#### ***`Graduate Students`***
+#### ***`Graduate Student`***
 --- 
-#### ***Ph.D. students***
+#### ***Ph.D. Student***
 - **Inwoo Ro (노인우)**
   - Lead Data Scientist, Naver Webtoon / Department of Computer Science (컴퓨터·소프트웨어학과)<br>
   - ***<a href="mailto:inwoo13@hanyang.ac.kr ">inwoo13@hanyang.ac.kr</a>***
@@ -49,7 +49,7 @@ nav_order: 1
   - ***<a href="mailto:andrirai@hanyang.ac.kr">andrirai@hanyang.ac.kr</a>***
   - Malware Detection, Memory Malware
 
-#### ***M.S. students***
+#### ***M.S. Student***
 
 - **Ae-Ri Kim (김애리)**
   - Department of Information Security (정보보안학과)
@@ -75,4 +75,50 @@ nav_order: 1
 
 #### ***`Alumni`***
 --- 
-작성 중... 
+
+#### ***Ph.D***
+
+- 김태근(순천향대학교)
+- 강부중(University of Southampton)
+- 한경수(신한금융지주)
+
+
+#### ***Master***
+
+- 강효수(한국원자력연구원)
+- 김수한
+- 장준영
+- 배성일(국가보안기술연구소)
+- 정병호(TmaxSoft)
+- 임수민
+- 윤영진
+- 옥정윤
+- 심우진(국가보안기술연구소)
+- 권구한
+- 한중수(국가보안기술연구소)
+- 이규빈
+- 자이납(Saudi Arabia)
+- 지환태
+- 강병호(네이버 웹툰)
+- 김용혁(webaresoft)
+- 박정빈
+- 박준규
+- 성명재
+- 심유진(한국인터넷진흥원)
+- 왕러
+- 이청
+- 이용찬
+- 이태경(TmaxSoft)
+- 이현수
+- 조인겸(파수)
+- 최두섭(박사과정)
+- 권희준(국가보안기술연구소)
+- 김선우
+- 김정태(한국지식재산보호원)
+- 성용진
+- 윤주환
+- 이여름(금융결재원)
+- 이재근
+- 임재현
+- 김혜선(Microsoft, Seattle)
+- 양지수(국방과학연구소)
