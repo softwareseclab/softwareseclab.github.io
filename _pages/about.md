@@ -9,9 +9,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to ***Software Security Lab*** @ Hanyang University
+Welcome to ***Software Security Lab*** at [Hanyang University](https://www.hanyang.ac.kr/)
 
-![](https://img.freepik.com/premium-photo/hacker-attack-computer-hardware-microchip-while-process-data-through-internet-network-3d-rendering-insecure-cyber-security-exploit-database-breach-concept-virus-malware-unlock-warning-screen_44651-655.jpg?w=2000){: width="770" height="400"}
+![](https://img.freepik.com/premium-photo/hacker-attack-computer-hardware-microchip-while-process-data-through-internet-network-3d-rendering-insecure-cyber-security-exploit-database-breach-concept-virus-malware-unlock-warning-screen_44651-655.jpg?w=2000){: width="980" height="450"}
 
 <br>
 
