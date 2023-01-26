@@ -9,13 +9,13 @@ nav_order: 4
 
 #### ***Prof. Eul Gyu Im***
 - E-mail: ***<a href="mailto:img@hanyang.ac.kr">img@hanyang.ac.kr</a>***
-- Location: IT/BT Building Room 605-1,
+- Location: 605-1, IT/BT,
 Department of Computer Science, Hanyang University, 222 Wangsimni-ro, 
 Seongdong-gu, Seoul, Republic of Korea
 
 #### ***Ph.D. Student Doo-Seop Choi***  
 - E-mail: ***<a href="mailto:dslab0915@hanyang.ac.kr">dslab0915@hanyang.ac.kr</a>***
-- Location: IT/BT Building Room 704,
+- Location: 704, IT/BT,
 Department of Computer Science, Hanyang University, 222 Wangsimni-ro, 
 Seongdong-gu, Seoul, Republic of Korea
 
