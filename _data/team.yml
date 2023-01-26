@@ -1,0 +1,266 @@
+"Professor":
+  - name: ["Eul Gyu", "Im"]
+    subtitle: "Professor"
+    introduction: "2015~2018, 2022~Current - 한국연구재단 전문위원(RB) <br>
+                   2022 - 한국정보과학회 부회장 <br>
+                   2014~2016, 2022~Current - 한국정보과학회 이사 <br>
+                   2012 - Visiting Research Professor, ECIT, Queen's University of Belfast, UK <br>
+                   2007~Current - 한국정보보호학회 이사 <br>
+                   2002~2005  - National Security Research Institute (Daejeon) <br>
+                   2002 Ph.D. - Computer Science, University of Southern California <br>
+                   1994 M.S. - Computer Engineering, Seoul National University <br>
+                   1992 B.S. - Computer Engineering, Seoul National University <br>"
+    location: IT/BT Building 605-1, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
+    email: img@hanyang.ac.kr
+    photo: /assets/img/profile/prof.jpeg
+    scholar: https://scholar.google.com/citations?user=DTq34zQAAAAJ
+
+
+"Representitive":
+  - name: ["Boojoong", "Kang"]
+    subtitle: "Assistant Professor at University of Southampton"
+    introduction: "2021.01 ~ present - Assistant Professor at University of Southampton, UK <br>
+                   2013.09 ~ 2020.12 - Centre for Secure Information Technology, Queens University of Belfast, UK <br>
+                   2013.08 - Ph.D.(Hanyang University)"
+    email: b.kang@soton.ac.uk
+    photo: /assets/img/profile/default_profile.png
+    scholar: https://scholar.google.com/citations?user=pmH4mq8AAAAJ&hl=ko
+
+
+  - name: ["Kyungsoo", "Han"]
+    subtitle: "Shinhan Financial Group Co., Ltd."
+    introduction: ""
+    # email: appff@kaist.ac.kr
+    photo: /assets/img/profile/default_profile.png
+  
+
+  - name: ["Taeguen", "Kim"]
+    subtitle: "Assistant Professor at SoonChunHyang University"
+    introduction: "2021.03 ~ peresent - Assistant Professor, SoonChunHyang University <br>
+                   2018.08 ~ 2021.02 - Senior Researcher, Hyundai motors group <br>
+                   2018.08 - Ph.D.(Hanyang University) <br>
+                   2013.02 - M.S.(Hanyang University) <br>
+                   2011.02 - B.S.(Hanyang University)"
+    email: tg.kim@sch.ac.kr
+    photo: /assets/img/profile/default_profile.png
+    scholar: https://scholar.google.com/citations?user=b6ha7-8AAAAJ&hl=ko&oi=ao
+
+
+"Ph.D. Students":
+  - name: ["Inwoo", "Ro"]
+    subtitle: "Lead Data Scientist, Naver Webtoon | Ph.D. Candidate"
+    introduction: "Research Area: FDS(Fraud Detection System), Abnormal Detection, User Profiling"
+    email: appff@kaist.ac.kr
+    photo: /assets/img/profile/default_profile.png
+
+
+  - name: ["Doo-Seop", "Choi"]
+    subtitle: "Ph.D. Student, Department of Computer Science"
+    introduction: "Research Area: Ai-based Cybersecurity, Network Intrusion Detection, Anomaly Detection"
+    email: dslab0915@hanyang.ac.kr
+    photo: /assets/img/profile/default_profile.png
+    location: IT/BT Building 704, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
+
+    # homepage: 
+    # scholar: 
+    # linkedin: 
+
+  - name: ["Rai", "Andri"]
+    subtitle: "Ph.D. Student, Department of Computer Science"
+    introduction: "Research Area: Memory Malware Detection"
+    email: andrirai@hanyang.ac.kr 
+    photo: /assets/img/profile/default_profile.png
+    
+"M.S. Students":
+  - name: ["Yong-Jun", "Kim"]
+    subtitle: "Master Student, Department of Future mobility"
+    introduction: "Research Area: AI-based Automotive Security, CAN(Controller Area Network)"
+    email: kyj20177@hanyang.ac.kr
+    photo: /assets/img/profile/default_profile.png
+    
+  - name: ["Rahimov",  "Faridun"]
+    subtitle: "Master Student, Department of Computer Science"
+    introduction: "Research Area: Dynamic Analysis of Malware, Software Vulnerability Analysis"
+    email: farid01@hanyang.ac.kr
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["Jinha", "Kim"]
+    subtitle: "Master Student(2023 freshman), Department of Computer Science"
+    email: bradypus404@gmail.com
+    introduction: "Research Area: Malware Detection, Static Analysis of Malware" 
+    photo: /assets/img/profile/default_profile.png
+  
+
+"Alumni":
+  - name: ["김애리"]
+    subtitle: "(M.S.) 정보보안학과 | "
+    photo: /assets/img/profile/default_profile.png
+    
+  - name: ["박영진"]
+    subtitle: "(M.S.) 정보보안학과 | "
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["강효수"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 한국원자력연구원" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["김수한"]
+    subtitle: "(M.S.) 미래자동차-SW융합전공 | "
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["장준영"]
+    subtitle: "(M.S.) 미래자동차-SW융합전공 | " 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["배성일"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 국가보안기술연구소" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["김태근"]
+    subtitle: "(Ph.D.) 컴퓨터·소프트웨어학과 | 조교수(학과장), 순천향대학교 정보보호학과" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["김준형"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["권일택"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | Coupang" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["정병호"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | TmaxSoft" 
+    photo: /assets/img/profile/default_profile.png
+  
+  - name: ["임수민"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["윤영진"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    photo: /assets/img/profile/default_profile.png
+  
+  - name: ["옥정윤"]
+    subtitle: "(M.S.) 정보보안학과 | 육군 임관" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["심우진"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["권구한"]
+    subtitle: "(M.S.) 정보보안학과 | 이글루시큐리티" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["한중수"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 국가보안기술연구소" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["이규빈"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | Fasoo" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["자이납"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | Saudi Arabia" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["지환태"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | TmaxSoft" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["김용혁"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 위베어소프트 CTO" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["이태경"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | TmaxSoft Team Leader" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["최두섭"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 박사과정" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["이청"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | China" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["왕러"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | China" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["박준규"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["이용찬"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["심유진"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 한국인터넷진흥원(KISA)" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["조인겸"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | Fasoo" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["이현수"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["성명재"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["강병호"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | Naver Webtoon" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["박정빈"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["이여름"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 금융결재원" 
+    photo: /assets/img/profile/default_profile.png
+  
+  - name: ["노인우"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | Naver Webtton / 박사과정" 
+    photo: /assets/img/profile/default_profile.png
+  
+  - name: ["김선우"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["김정태"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 한국지식재산보호원" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["김혜선"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | Microsoft, Seattle" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["양지수"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 국방과학연구소" 
+    photo: /assets/img/profile/default_profile.png
+  
+  - name: ["강부중"]
+    subtitle: "(Ph.D.) 전자컴퓨터통신공학과 | Assistant Professor, Southampton University" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["권희준"]
+    subtitle: "(M.S.) 전자컴퓨터통신공학과 | 국가보안기술연구소" 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["성용진"]
+    subtitle: "(M.S.) 전자컴퓨터통신공학과 | " 
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["윤주환"]
+    subtitle: "(M.S.) 전자컴퓨터통신공학과 | " 
+    photo: /assets/img/profile/default_profile.png
+
+
+
+
+

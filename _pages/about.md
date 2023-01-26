@@ -1,6 +1,6 @@
 ---
 layout: about
-title: SSL
+title: About
 permalink: /
 subtitle: # <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -9,7 +9,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to Software Security Lab.
+Welcome to ***Software Security Lab*** @ Hanyang University
 
 ![](https://img.freepik.com/premium-photo/hacker-attack-computer-hardware-microchip-while-process-data-through-internet-network-3d-rendering-insecure-cyber-security-exploit-database-breach-concept-virus-malware-unlock-warning-screen_44651-655.jpg?w=2000){: width="770" height="400"}
 

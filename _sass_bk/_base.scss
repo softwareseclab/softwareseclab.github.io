@@ -4,17 +4,21 @@
 
 // Typography
 
-::selection {
-  color: var(--global-text-color);
-  background: var(--global-selection-color);
-}
-
 p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
 
 hr {
   border-top: 1px solid var(--global-divider-color);
+}
+
+table {
+  td, th {
+    color: var(--global-text-color);
+  }
+  td {
+    font-size: 1rem;
+  }
 }
 
 a, table.table a {
@@ -60,7 +64,7 @@ blockquote {
 
 .card {
   background-color: var(--global-card-bg-color);
-  
+
   img {
     width: 100%;
   }
@@ -81,6 +85,7 @@ blockquote {
 }
 
 // Citation
+
 .citation, .citation-number {
   color: var(--global-theme-color);
 }
@@ -94,7 +99,7 @@ blockquote {
   .address {
     margin-bottom: 5px;
     margin-top: 5px;
-    // font-family: monospace;
+    font-family: monospace;
     p {
       display: inline-block;
       margin: 0;
@@ -228,16 +233,14 @@ blockquote {
   }
 }
 
-
-// News
-
-.news table td {
-  font-size: 1rem;
+#light-toggle {
+  padding: 0;
+  border: 0;
+  background-color: inherit;
   color: var(--global-text-color);
-}
-
-.news table th {
-  color: var(--global-text-color);
+  &:hover {
+    color: var(--global-hover-color);
+  }
 }
 
 // Social (bottom)
@@ -289,6 +292,33 @@ footer.sticky-bottom {
   font-size: 0.9rem;
 }
 
+// CV
+
+.cv {
+  margin-bottom: 40px;
+  
+  .card {
+    background-color: var(--global-card-bg-color);
+    border: 1px solid var(--global-divider-color);
+    
+    .list-group-item {
+      background-color: inherit;
+
+      .badge {
+        color: var(--global-card-bg-color) !important;
+        background-color: var(--global-theme-color) !important;
+      }
+    }
+  }
+}
+
+// Repositories
+
+@media (min-width: 768px) {
+  .repo {
+    max-width: 50%;
+  }
+}
 
 // Blog
 
@@ -296,10 +326,28 @@ footer.sticky-bottom {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
   padding-top: 2rem;
-  padding-bottom: 5rem;
+  padding-bottom: 3rem;
   h1 {
     color: var(--global-theme-color);
     font-size: 5rem;
+  }
+}
+
+.tag-list {
+  border-bottom: 1px solid var(--global-divider-color);
+  text-align: center;
+  padding-top: 1rem;
+
+  ul {
+    justify-content: center;
+    display: flow-root;
+
+    p, li {
+      list-style: none;
+      display: inline-block;
+      padding: 1rem 0.5rem;
+      color: var(--global-text-color-light);
+    }
   }
 }
 
@@ -321,6 +369,7 @@ footer.sticky-bottom {
       color: var(--global-text-color-light);
       font-size: 0.875rem;
       padding-top: 0.25rem;
+      padding-bottom: 0;
     }
     a {
       color: var(--global-text-color);
@@ -409,9 +458,7 @@ footer.sticky-bottom {
 // Publications
 
 .publications {
-  .list {
-    margin-top: 2rem;
-  }
+  margin-top: 2rem;
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
@@ -440,9 +487,14 @@ footer.sticky-bottom {
 
     li {
       margin-bottom: 1rem;
+      .preview {
+        width: 100%;
+        min-width: 80px;
+        max-width: 200px;
+      }
       .abbr {
         height: 2rem;
-        // margin-bottom: 0.5rem;
+        margin-bottom: 0.5rem;
         abbr {
           display: inline-block;
           background-color: var(--global-theme-color);
@@ -474,6 +526,15 @@ footer.sticky-bottom {
         > em {
           border-bottom: 1px solid;
           font-style: normal;
+        }
+        > span.more-authors {
+          color: var(--global-text-color-light);
+          border-bottom: 1px dashed var(--global-text-color-light);
+          cursor: pointer;
+          &:hover {
+              color: var(--global-text-color);
+              border-bottom: 1px dashed var(--global-text-color);
+          }
         }
       }
       .links {
@@ -573,6 +634,7 @@ html.transition *:after {
   .post-tags{
     color: var(--global-text-color-light);
     font-size: 0.875rem;
+    padding-top: 0.25rem;
     padding-bottom: 1rem;
     a {
       color: var(--global-text-color-light);
@@ -583,26 +645,9 @@ html.transition *:after {
     }
   }
   .post-content{
-        blockquote {
-          border-left: 5px solid var(--global-theme-color);
-          padding: 8px;
-      }
-}
-}
-
-.post-tags {
-  color: var(--global-text-color-light);
-  font-size: 0.875rem;
-  padding-top: 0.25rem;
-}
-
-// toggle 추가
-#light-toggle {
-  padding: 0;
-  border: 0;
-  background-color: inherit;
-  color: var(--global-text-color);
-  &:hover {
-    color: var(--global-hover-color);
+    blockquote {
+      border-left: 5px solid var(--global-theme-color);
+      padding: 8px;
+    }
   }
 }
