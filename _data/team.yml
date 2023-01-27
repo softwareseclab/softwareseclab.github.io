@@ -105,11 +105,11 @@
     photo: /assets/img/profile/default_profile.png
 
   - name: ["김수한"]
-    subtitle: "(M.S.) 미래자동차-SW융합전공 | "
+    subtitle: "(M.S.) 미래자동차-SW융합전공 | 안정평가연구소"
     photo: /assets/img/profile/default_profile.png
 
   - name: ["장준영"]
-    subtitle: "(M.S.) 미래자동차-SW융합전공 | " 
+    subtitle: "(M.S.) 미래자동차-SW융합전공 | TmaxSoft" 
     photo: /assets/img/profile/default_profile.png
 
   - name: ["배성일"]
@@ -121,7 +121,7 @@
     photo: /assets/img/profile/default_profile.png
 
   - name: ["김준형"]
-    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | TmaxSoft" 
     photo: /assets/img/profile/default_profile.png
 
   - name: ["권일택"]
@@ -145,7 +145,7 @@
     photo: /assets/img/profile/default_profile.png
 
   - name: ["심우진"]
-    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    subtitle: "(M.S.) 정보보안학과 | 국가보안기술연구소" 
     photo: /assets/img/profile/default_profile.png
 
   - name: ["권구한"]
