@@ -50,13 +50,13 @@
   - name: ["Inwoo", "Ro"]
     subtitle: "Lead Data Scientist, NAVER WEBTOON | Ph.D. Candidate"
     introduction: "Research Area: FDS(Fraud Detection System), Abnormal Detection, User Profiling"
-    email: appff@kaist.ac.kr
+    email: 
     photo: /assets/img/profile/default_profile.png
     location: NAVER WEBTOON, pangyotech1, 131, Bundangnaegok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
 
   - name: ["Doo-Seop", "Choi"]
     subtitle: "Ph.D. Student, Department of Computer Science"
-    introduction: "Research Area: AI-based Cybersecurity, Network Intrusion Detection, Abnormal Detection"
+    introduction: "Research Area: AI-based Cybersecurity, Network Intrusion Detection, Anomaly Detection"
     email: dslab0915@hanyang.ac.kr
     photo: /assets/img/profile/choids.jpg
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
@@ -83,11 +83,18 @@
     photo: /assets/img/profile/fari.jpg
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
 
-  - name: ["Jinha", "Kim"]
-    subtitle: "Master Student(2023 freshman), Department of Computer Science"
-    email: bradypus404@gmail.com
+  - name: ["Jin-Ha", "Kim"]
+    subtitle: "Master Student, Department of Computer Science"
+    email: bradypus404@hanyang.ac.kr
     introduction: "Research Area: Malware Detection, Static Analysis of Malware" 
     photo: /assets/img/profile/kimjh.jpg
+    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
+  
+  - name: ["Hye-Min", "Jeon"]
+    subtitle: "Master Student, Department of Information Security"
+    email: crow0506@hanyang.ac.kr
+    introduction: "Research Area: Malware Detection, Analysis of Malware" 
+    photo: /assets/img/profile/jeonhm.jpg
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
   
 
