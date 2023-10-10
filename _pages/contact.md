@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 #### ***Prof. Eul Gyu Im***
-- E-mail: ***<a href="mailto:img@hanyang.ac.kr">img@hanyang.ac.kr</a>***
+- E-mail: ***<a href="mailto:imeg@hanyang.ac.kr">imeg@hanyang.ac.kr</a>***
 - Location: 605-1, IT/BT,
 Department of Computer Science, Hanyang University, 222 Wangsimni-ro, 
 Seongdong-gu, Seoul, Republic of Korea
