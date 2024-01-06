@@ -55,50 +55,61 @@
     location: NAVER WEBTOON, pangyotech1, 131, Bundangnaegok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
 
   - name: ["Doo-Seop", "Choi"]
-    subtitle: "Ph.D. Student, Department of Computer Science"
-    introduction: "Research Area: AI-based Cybersecurity, Network Intrusion Detection, Anomaly Detection"
+    subtitle: "Ph.D. Student, Department of Computer Science (since 2022.03.)"
+    introduction: "Research Area: Network Intrusion Detection, Anomaly Detection, AI-based Cybersecurity"
     email: dslab0915@hanyang.ac.kr
     photo: /assets/img/profile/choids.jpg
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
 
   - name: ["Rai", "Andri"]
-    subtitle: "Ph.D. Student, Department of Computer Science"
+    subtitle: "Ph.D. Student, Department of Computer Science (since 2022.03.)"
     introduction: "Research Area: Memory Malware Detection"
     email: andrirai@hanyang.ac.kr 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
   
-"M.S. Students":
-  - name: ["Yong-Jun", "Kim"]
-    subtitle: "Master Student, Department of Future mobility"
-    introduction: "Research Area: AI-based Automotive Security, CAN(Controller Area Network)"
-    email: kyj20177@hanyang.ac.kr
-    photo: /assets/img/profile/kimyj.jpg
-    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-    
+"M.S. Students":    
   - name: ["Rahimov",  "Faridun"]
-    subtitle: "Master Student, Department of Computer Science"
+    subtitle: "Master Student, Department of Computer Science (since 2022.09.)"
     introduction: "Research Area: Dynamic Analysis of Malware, Software Vulnerability Analysis"
     email: farid01@hanyang.ac.kr
     photo: /assets/img/profile/fari.jpg
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
 
   - name: ["Jin-Ha", "Kim"]
-    subtitle: "Master Student, Department of Computer Science"
+    subtitle: "Master Student, Department of Computer Science (since 2023.03.)"
     email: bradypus404@hanyang.ac.kr
     introduction: "Research Area: Malware Detection, Static Analysis of Malware" 
     photo: /assets/img/profile/kimjh.jpg
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
   
   - name: ["Hye-Min", "Jeon"]
-    subtitle: "Master Student, Department of Information Security"
+    subtitle: "Master Student, Department of Information Security (since 2023.03.)"
     email: crow0506@hanyang.ac.kr
     introduction: "Research Area: Malware Detection, Analysis of Malware" 
     photo: /assets/img/profile/jeonhm.jpg
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-  
+
+  - name: ["Yang", "Luofan"]
+    subtitle: "Master Student, Department of Information Security (since 2023.03.)"
+    email: ff710623370@hanyang.ac.kr
+    introduction: "Research Area: Malware Detection" 
+    photo: /assets/img/profile/default_profile.png
+    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
+
+  - name: ["Asiimwe", "Stuart"]
+    subtitle: "Master Student, Department of Information Security (since 2023.03.)"
+    email: stuart@hanyang.ac.kr
+    introduction: "Research Area: Malware Detection" 
+    photo: /assets/img/profile/default_profile.png
+    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
+
 
 "Alumni":
+  - name: ["김용준"]
+    subtitle: "(M.S.) 미래모빌리티학과(현대차그룹 계약학과) | 현대오토에버"
+    photo: /assets/img/profile/default_profile.png
+  
   - name: ["김애리"]
     subtitle: "(M.S.) 정보보안학과 | "
     photo: /assets/img/profile/default_profile.png
@@ -124,7 +135,7 @@
     photo: /assets/img/profile/default_profile.png
 
   - name: ["김태근"]
-    subtitle: "(Ph.D.) 컴퓨터·소프트웨어학과 | 조교수(학과장), 순천향대학교 정보보호학과" 
+    subtitle: "(Ph.D.) 컴퓨터·소프트웨어학과 | 순천향대학교 정보보호학과 조교수" 
     photo: /assets/img/profile/default_profile.png
 
   - name: ["김준형"]
@@ -148,7 +159,7 @@
     photo: /assets/img/profile/default_profile.png
   
   - name: ["옥정윤"]
-    subtitle: "(M.S.) 정보보안학과 | 육군 임관" 
+    subtitle: "(M.S.) 정보보안학과 | " 
     photo: /assets/img/profile/default_profile.png
 
   - name: ["심우진"]
