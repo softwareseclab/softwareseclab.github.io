@@ -35,13 +35,14 @@
   
 
   - name: ["Taeguen", "Kim"]
-    subtitle: "Assistant Professor at SoonChunHyang University"
-    introduction: "2021.03 ~ peresent - Assistant Professor, SoonChunHyang University <br>
+    subtitle: "Assistant Professor at Korea University (Sejong)"
+    introduction: "2024.09 ~ present - Assistant Professor, Korea University (Sejong) <br>
+                   2021.03 ~ 2024.08 - Assistant Professor, SoonChunHyang University <br>
                    2018.08 ~ 2021.02 - Senior Researcher, Hyundai motors group <br>
                    2018.08 - Ph.D.(Hanyang University) <br>
                    2013.02 - M.S.(Hanyang University) <br>
                    2011.02 - B.S.(Hanyang University)"
-    email: tg.kim@sch.ac.kr
+    email: tg_kim@korea.ac.kr
     photo: /assets/img/profile/default_profile.png
     scholar: https://scholar.google.com/citations?user=b6ha7-8AAAAJ&hl=ko&oi=ao
 
@@ -55,67 +56,52 @@
     location: NAVER WEBTOON, pangyotech1, 131, Bundangnaegok-ro, Bundang-gu, Seongnam-si, Gyeonggi-do, Republic of Korea
 
   - name: ["Doo-Seop", "Choi"]
-    subtitle: "Ph.D. Student, Department of Computer Science (since 2022.03.)"
-    introduction: "Research Area: Network Intrusion Detection, Anomaly Detection, AI-based Cybersecurity"
+    subtitle: "Ph.D. Student, Department of Computer Science (since 2022.03 ~ )"
+    introduction: "Research Area: AI-applied Cybersecurity, Non-Executable Malware (Malicious Document) Detection, Network Intrusion Detection"
     email: dslab0915@hanyang.ac.kr
-    photo: /assets/img/profile/choids.jpg
+    photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
 
   - name: ["Rai", "Andri"]
-    subtitle: "Ph.D. Student, Department of Computer Science (since 2022.03.)"
-    introduction: "Research Area: Memory Malware Detection"
+    subtitle: "Ph.D. Student, Department of Computer Science (since 2022.03 ~ )"
+    introduction: "Research Area: Malware Analysis, Memory Malware Detection"
     email: andrirai@hanyang.ac.kr 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
   
-"M.S. Students":    
-  - name: ["Rahimov",  "Faridun"]
-    subtitle: "Master Student, Department of Computer Science (since 2022.09.)"
-    introduction: "Research Area: Dynamic Analysis of Malware, Software Vulnerability Analysis"
-    email: farid01@hanyang.ac.kr
-    photo: /assets/img/profile/fari.jpg
-    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-
-  - name: ["Jin-Ha", "Kim"]
-    subtitle: "Master Student, Department of Computer Science (since 2023.03.)"
-    email: bradypus404@hanyang.ac.kr
-    introduction: "Research Area: Malware Detection, Static Analysis of Malware" 
-    photo: /assets/img/profile/kimjh.jpg
-    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-  
+"M.S. Students":      
   - name: ["Hye-Min", "Jeon"]
-    subtitle: "Master Student, Department of Information Security (since 2023.03.)"
+    subtitle: "Master Student, Department of Information Security (since 2023.03 ~ )"
     email: crow0506@hanyang.ac.kr
-    introduction: "Research Area: Malware Detection, Analysis of Malware" 
-    photo: /assets/img/profile/jeonhm.jpg
-    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-
-  - name: ["Yang", "Luofan"]
-    subtitle: "Master Student, Department of Information Security (since 2023.03.)"
-    email: ff710623370@hanyang.ac.kr
-    introduction: "Research Area: Malware Detection" 
+    introduction: "Research Area: Malware Analysis, Ransomware Detection" 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
 
-  - name: ["Asiimwe", "Stuart"]
-    subtitle: "Master Student, Department of Information Security (since 2023.03.)"
-    email: stuart@hanyang.ac.kr
-    introduction: "Research Area: Malware Detection" 
+  - name: ["Shabnur", " "]
+    subtitle: "Master Student, Department of Computer Science (since 2023.09 ~ )"
+    # email: @hanyang.ac.kr
+    introduction: "Research Area: IoT Security" 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-
-
-"Alumni":
-  - name: ["김용준"]
-    subtitle: "(M.S.) 미래모빌리티학과(현대차그룹 계약학과) | 현대오토에버"
-    photo: /assets/img/profile/default_profile.png
   
+  - name: ["Qinghua", "Wang"]
+    subtitle: "Master Student, Department of Computer Science (since 2023.09 ~ )"
+    # email: @hanyang.ac.kr
+    introduction: "Research Area: Information Security" 
+    photo: /assets/img/profile/default_profile.png
+    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
+      
+"Alumni":
+  - name: ["김진하"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | - "
+    photo: /assets/img/profile/default_profile.png
+
   - name: ["김애리"]
-    subtitle: "(M.S.) 정보보안학과 | "
+    subtitle: "(M.S.) 정보보안학과 | - "
     photo: /assets/img/profile/default_profile.png
     
   - name: ["박영진"]
-    subtitle: "(M.S.) 정보보안학과 | "
+    subtitle: "(M.S.) 정보보안학과 | - "
     photo: /assets/img/profile/default_profile.png
 
   - name: ["강효수"]
@@ -127,7 +113,7 @@
     photo: /assets/img/profile/default_profile.png
 
   - name: ["장준영"]
-    subtitle: "(M.S.) 미래자동차-SW융합전공 | TmaxSoft" 
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | TmaxSoft" 
     photo: /assets/img/profile/default_profile.png
 
   - name: ["배성일"]
