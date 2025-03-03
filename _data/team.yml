@@ -90,6 +90,13 @@
     introduction: "Research Area: Information Security" 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
+  
+  - name: ["Jeongyun", "Lee"]
+    subtitle: "Master Student, Department of Information Security (since 2025.03 ~ )"
+    # email: @hanyang.ac.kr
+    introduction: "Research Area: Malware Analysis & Detection" 
+    photo: /assets/img/profile/default_profile.png
+    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
       
 "Alumni":
   - name: ["김진하"]
@@ -121,7 +128,7 @@
     photo: /assets/img/profile/default_profile.png
 
   - name: ["김태근"]
-    subtitle: "(Ph.D.) 컴퓨터·소프트웨어학과 | 순천향대학교 정보보호학과 조교수" 
+    subtitle: "(Ph.D.) 컴퓨터·소프트웨어학과 | 고려대학교 인공지능 사이버보안학과 교수" 
     photo: /assets/img/profile/default_profile.png
 
   - name: ["김준형"]
@@ -201,7 +208,7 @@
     photo: /assets/img/profile/default_profile.png
 
   - name: ["심유진"]
-    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 한국인터넷진흥원(KISA)" 
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 한국인터넷진흥원 (KISA)" 
     photo: /assets/img/profile/default_profile.png
 
   - name: ["조인겸"]
