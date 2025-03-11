@@ -64,7 +64,7 @@
 
   - name: ["Andri", "Rai"]
     subtitle: "Ph.D. Candidate, Department of Computer Science (since 2022.03 ~ )"
-    introduction: "Research Area: Malware Analysis, Memory Malware Detection"
+    introduction: "Research Area: Memory Malware Detection, Anomaly Detection"
     email: andrirai@hanyang.ac.kr 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
@@ -84,6 +84,13 @@
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
   
+  - name: ["Tae Young", "Kim"]
+    subtitle: "Master's Student, Department of Computer Science (since 2024.03 ~ )"
+    # email: @hanyang.ac.kr
+    introduction: "Research Area: Cybersecurity" 
+    photo: /assets/img/profile/default_profile.png
+    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
+
   - name: ["Qinghua", "Wang"]
     subtitle: "Master's Student, Department of Computer Science (since 2024.09 ~ )"
     # email: @hanyang.ac.kr
@@ -94,7 +101,14 @@
   - name: ["Jeongyun", "Lee"]
     subtitle: "Master's Student, Department of Information Security (since 2025.03 ~ )"
     # email: @hanyang.ac.kr
-    introduction: "Research Area: Malware Analysis & Detection" 
+    introduction: "Research Area: Malware Analysis, Machine Learning-based Detection" 
+    photo: /assets/img/profile/default_profile.png
+    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
+  
+  - name: ["ChuanKun", "Ni"]
+    subtitle: "Master's Student, Department of Information Security (since 2025.03 ~ )"
+    # email: @hanyang.ac.kr
+    introduction: "Research Area: Abnormal Detection" 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
       
