@@ -18,30 +18,26 @@ Welcome to ***Software Security Lab.*** at [Hanyang University](https://www.hany
 <br>
 
 ### ***Our Research Areas***
---- 
+---
 
-#### `Malware Analysis & Binary Anaysis`
-- Analyze binary executable files
-- Various static/dynamic features of executable files are considered
-- Various machine learning techniques are tested to improve analysis accuracy
-- Analysis tools: PEiD, PEview, IDA Pro, Cuckoo Sandbox, PIN tool, Ollydbg, …
-- Topics: CFG analysis, API-based analysis, frequency-based analysis, Visualization, …
+#### `Malware Analysis & Binary Analysis & Non-executable File Analysis`
+- Perform static and dynamic analysis of **executable binaries (e.g., EXE, ELF)** and **non-executable files (e.g., PDF, MS Office, image files)**
+- Apply machine learning and deep learning techniques to extract effective features and enhance detection performance
+- Use tools such as IDA Pro, Cuckoo Sandbox, PIN tool, and PDF analyzers for in-depth behavioral and structural analysis
 
-#### `AI-based Cyber Security`
-- AI-based malware analysis
-- Malware classification using machine learning
-- Symbolic execution with reinforcement learning
-- Android malware analysis using multi-modal neural networks
-- AI-based Network security & Intrusion Detection, Anomaly Detection
+#### `AI-applied Cyber Security`
+- Develop malware detection and classification models using supervised and unsupervised learning
+- Combine symbolic execution with reinforcement learning to discover vulnerabilities and automate analysis
+- Explore multi-modal neural networks and graph-based models for Android malware and advanced threats
 
-#### `IoT Security & Firmware Analysis`
-- Security analysis of IoT devices and IoT services
-- Firmware binary analysis
-- Firmware vulnerability analysis
-- Fuzzing testing
+#### `IoT Security & Firmware Vulnerability Analysis`
+- Analyze IoT firmware using static analysis, symbolic execution, and vulnerability scanning
+- Perform fuzz testing to uncover security flaws in embedded systems and connected devices
+- Research secure update mechanisms and protection techniques for IoT environments
 
-#### `Mobility Security` 
-- In-vehicle network(CAN) anomaly detection
-- Research on car hacking and defense methods
+#### `Mobility & Automotive Security`
+- Develop anomaly detection systems for in-vehicle networks (e.g., CAN protocol) using AI techniques
+- Investigate attack surfaces and countermeasures in automotive security
+- Design intrusion detection and mitigation frameworks for connected vehicle environments
 
 <br>
