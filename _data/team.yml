@@ -11,7 +11,7 @@
                    1994 M.S. - Computer Engineering, Seoul National University <br>
                    1992 B.S. - Computer Engineering, Seoul National University <br>"
     location: 605-1, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-    email: imeg[at]hanyang.ac.kr
+    email: imeg@hanyang.ac.kr
     photo: /assets/img/profile/prof.jpeg
     scholar: https://scholar.google.com/citations?user=DTq34zQAAAAJ
 
@@ -22,7 +22,7 @@
     introduction: "2021.01 ~ present - Assistant Professor at University of Southampton, UK <br>
                    2013.09 ~ 2020.12 - Centre for Secure Information Technology, Queens University of Belfast, UK <br>
                    2013.08 - Ph.D.(Hanyang University)"
-    email: b.kang[at]soton.ac.uk
+    email: b.kang@soton.ac.uk
     photo: /assets/img/profile/default_profile.png
     scholar: https://scholar.google.com/citations?user=pmH4mq8AAAAJ&hl=ko
 
@@ -42,7 +42,7 @@
                    2018.08 - Ph.D.(Hanyang University) <br>
                    2013.02 - M.S.(Hanyang University) <br>
                    2011.02 - B.S.(Hanyang University)"
-    email: tg_kim[at]korea.ac.kr
+    email: tg_kim@korea.ac.kr
     photo: /assets/img/profile/default_profile.png
     scholar: https://scholar.google.com/citations?user=b6ha7-8AAAAJ&hl=ko&oi=ao
 
@@ -58,7 +58,7 @@
   - name: ["Doo-Seop", "Choi"]
     subtitle: "Ph.D. Candidate, Department of Computer Science (since 2022.03 ~ )"
     introduction: "Research Area: AI-applied Cybersecurity, Non-Executable Malware (Malicious Documents) Analysis & Detection, Intrusion Detection"
-    email: dslab0915[at]hanyang.ac.kr
+    email: dslab0915@hanyang.ac.kr
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
 
@@ -72,7 +72,7 @@
 "M.S. Students":      
   - name: ["Hye-Min", "Jeon"]
     subtitle: "Master's Student, Department of Information Security (since 2023.03 ~ )"
-    email: crow0506@hanyang.ac.kr
+    # email: crow0506@hanyang.ac.kr
     introduction: "Research Area: Malware Analysis, Ransomware Detection" 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
