@@ -9,7 +9,7 @@ nav_order: 2
 ---
 
 #### ***International*** 
-- Doo-Seop Choi, Taeguen Kim, Boojung Kang, Eul Gyu Im, "Image-Based Malicious Network Traffic Detection Framework: Data-Centric Approach.", Applied Sciences, 15(12), 6546, 2025
+- Doo-Seop Choi, Taeguen Kim, Boojoong Kang, Eul Gyu Im, "Image-Based Malicious Network Traffic Detection Framework: Data-Centric Approach.", Applied Sciences, 15(12), 6546, 2025
 - Andri Rai, Eul Gyu Im, "Multi-NetDroid: Multi-layer Perceptron Neural Network for Android Malware Detection", International Conference on Ubiquitous Security, 219-235, 2023
 - Inwoo Ro, Boojoong Kang, Choonghyun Seo, Eul Gyu Im, "Detection Method for Randomly Generated User IDs: Lift the Curse of Dimensionality", IEEE Access, 10., 86020-86028, 2022
 - Seong Il Bae, Gyu Bin Lee, Eul Gyu Im, "Ransomware detection using machine learning algorithms", Concurrency and Computation: Practice and Experience, 32.18, e5422, 2020
