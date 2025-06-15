@@ -11,7 +11,7 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to ***Software Security Lab.*** at [Hanyang University](https://www.hanyang.ac.kr/)
 
-![](/assets/img/landing_img.webp){: width="100%" height="auto"}
+![](/assets/img/landing_img.png){: width="100%" height="auto"}
 
 <!-- ![](https://img.freepik.com/premium-photo/hacker-attack-computer-hardware-microchip-while-process-data-through-internet-network-3d-rendering-insecure-cyber-security-exploit-database-breach-concept-virus-malware-unlock-warning-screen_44651-655.jpg?w=2000){: width="100%" height="auto"} -->
 
