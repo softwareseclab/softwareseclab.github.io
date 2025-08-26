@@ -15,6 +15,7 @@
     photo: /assets/img/profile/prof.jpeg
     scholar: https://scholar.google.com/citations?user=DTq34zQAAAAJ
 
+# --- Section 구분 ---
 
 "Representative":
   - name: ["Boojoong", "Kang"]
@@ -46,6 +47,7 @@
     photo: /assets/img/profile/default_profile.png
     scholar: https://scholar.google.com/citations?user=b6ha7-8AAAAJ&hl=ko&oi=ao
 
+# --- Section 구분 ---
 
 "Ph.D. Students":
   - name: ["Inwoo", "Ro"]
@@ -68,7 +70,8 @@
     # email: hanyang.ac.kr 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-  
+
+# --- Section 구분 ---
 
 "M.S. Students":      
   - name: ["Hye-Min", "Jeon"]
@@ -113,6 +116,7 @@
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
 
+# --- Section 구분 ---
 
 "Undergraduate Student":
   - name: ["Hyeon Woo", "Kim"]
@@ -121,6 +125,7 @@
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
 
+# --- Section 구분 ---
 
 "Alumni":
   - name: ["김진하"]
