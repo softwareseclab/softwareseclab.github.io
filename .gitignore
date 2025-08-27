@@ -1,8 +1,23 @@
-_site
-.sass-cache
-.jekyll-metadata
-.DS_store
-.ruby-version
-.tweet-cache/
+# Build output
+_site/
+
+# Jekyll caches & metadata
 .jekyll-cache/
-Gemfile.lock
+.jekyll-metadata
+.sass-cache/
+.cache/
+
+# Ruby / Bundler
+.bundle/
+vendor/
+vendor/bundle/
+# Gemfile.lock  # ← 재현성 위해 커밋하려면 이 줄은 지우세요
+
+# OS / Editor
+**/.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# (옵션) npm 사용 시
+node_modules/
