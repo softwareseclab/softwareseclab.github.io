@@ -129,6 +129,14 @@
 # --- Section 구분 ---
 
 "Alumni":
+  - name: ["YANG LUOFAN"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | - "
+    photo: /assets/img/profile/default_profile.png
+
+  - name: ["STUART ASIIMWE"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | - "
+    photo: /assets/img/profile/default_profile.png
+
   - name: ["김진하"]
     subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | - "
     photo: /assets/img/profile/default_profile.png
