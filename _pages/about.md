@@ -9,6 +9,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+![](/assets/img/hyu_logo.jpg){: width="14%" height="auto"} ![](/assets/img/ssl_logo.png){: width="30%" height="auto"}
+
 👋🏻 Welcome to the ***Software Security Lab*** at [Hanyang University](https://www.hanyang.ac.kr/)
 
 <p>
