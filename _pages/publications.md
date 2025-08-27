@@ -126,3 +126,9 @@ nav_order: 2
         <li>Bo Li, Eul Gyu Im, "A survey of virus obfuscation techniques", 한국통신학회 학술대회논문집, 1169-1171, 2010</li>
     </ul>
 </details>
+
+---
+
+<footer>
+  <p>본 웹사이트는 이메일 무단 수집을 거부합니다. (Unauthorized collection of email addresses from this website is prohibited.)</p>
+</footer> 

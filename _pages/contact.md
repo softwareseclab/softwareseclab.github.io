@@ -28,5 +28,5 @@ Seongdong-gu, Seoul, Republic of Korea
 ---
 
 <footer>
-  <p>본 웹사이트는 이메일 무단 수집을 거부합니다. (This website prohibits unauthorized collection of emails.)</p>
+  <p>본 웹사이트는 이메일 무단 수집을 거부합니다. (Unauthorized collection of email addresses from this website is prohibited.)</p>
 </footer> 

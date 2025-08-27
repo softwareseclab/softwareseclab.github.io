@@ -12,12 +12,11 @@ social: false  # includes social icons at the bottom of the page
 👋🏻 Welcome to the ***Software Security Lab*** at [Hanyang University](https://www.hanyang.ac.kr/)
 
 <p>
-    Our laboratory is dedicated to advancing the frontier of **software security and cybersecurity research**.  
+    Our laboratory is dedicated to advancing the frontier of software security and cybersecurity research.  
     We conduct both theoretical and applied research to address emerging threats in malware, non-executable file exploitation, IoT and automotive systems, and AI-driven security.  
-    By integrating **data-driven methodologies**, advanced **machine learning and deep learning models**, and practical **system-level analysis tools**, our mission is to provide **robust, scalable, and intelligent security solutions** that can be applied to real-world environments.  
+    By integrating data-driven methodologies, advanced machine learning and deep learning models, and practical system-level analysis tools, our mission is to provide robust, scalable, and intelligent security solutions that can be applied to real-world environments.  
     Our research aims not only to contribute academically, but also to support the global community in mitigating evolving cyber threats.
 </p>
-
 ![](/assets/img/landing_img.png){: width="100%" height="auto"}
 
 ### 🎯 ***Our Research Areas***
@@ -44,8 +43,12 @@ social: false  # includes social icons at the bottom of the page
 - Build **intrusion detection and mitigation frameworks** for connected and autonomous vehicle ecosystems  
 
 <p>
-    Our lab pursues **innovative, data-centric, and system-level approaches** to address the challenges of modern cybersecurity.  
-    Through collaboration with academia and industry, we aim to foster **secure, resilient, and trustworthy digital infrastructures** for the future.
+    Our lab pursues innovative, data-centric, and system-level approaches to address the challenges of modern cybersecurity.  
+    Through collaboration with academia and industry, we aim to foster secure, resilient, and trustworthy digital infrastructures for the future.
 </p>
 
-<br>
+---
+
+<footer>
+  <p>본 웹사이트는 이메일 무단 수집을 거부합니다. (Unauthorized collection of email addresses from this website is prohibited.)</p>
+</footer> 

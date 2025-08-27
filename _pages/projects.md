@@ -17,3 +17,9 @@ nav_order: 3
 ## 📝 BK21
 ---
 - BK21 FOUR 미래자동차-소프트웨어 융복합 혁신인재 양성 교육연구 (Ongoing)
+
+---
+
+<footer>
+  <p>본 웹사이트는 이메일 무단 수집을 거부합니다. (Unauthorized collection of email addresses from this website is prohibited.)</p>
+</footer> 
