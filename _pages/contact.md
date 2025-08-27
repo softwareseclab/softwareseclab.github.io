@@ -13,7 +13,7 @@ nav_order: 4
 Department of Computer Science, Hanyang University, 222 Wangsimni-ro, 
 Seongdong-gu, Seoul, Republic of Korea
 
-#### ***M.S. Student Jeongyun Lee***  
+#### ***M.S. Student. Jeongyun Lee***  
 - E-mail: ***<a href="mailto:ljyun127@hanyang.ac.kr">ljyun127(at)hanyang(dot)ac(dot)kr</a>***
 - Location: 704, IT/BT,
 Department of Computer Science, Hanyang University, 222 Wangsimni-ro, 
