@@ -6,6 +6,7 @@ _site/
 .jekyll-metadata
 .sass-cache/
 .cache/
+.tweet-cache/
 
 # Ruby / Bundler
 .bundle/
@@ -18,6 +19,8 @@ vendor/bundle/
 Thumbs.db
 .idea/
 .vscode/
+
+Gemfile.lock
 
 # (옵션) npm 사용 시
 node_modules/
