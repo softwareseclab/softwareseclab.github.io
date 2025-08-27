@@ -9,7 +9,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to the ***Software Security Lab*** at [Hanyang University](https://www.hanyang.ac.kr/)
+👋🏻 Welcome to the ***Software Security Lab*** at [Hanyang University](https://www.hanyang.ac.kr/)
 
 ![](/assets/img/landing_img.png){: width="100%" height="auto"}
 
@@ -20,25 +20,25 @@ Our research aims not only to contribute academically, but also to support the g
 
 ---
 
-### ***Our Research Areas***
+### 🎯 ***Our Research Areas***
 ---
 
-#### `Malware Analysis, Binary Analysis & Non-executable File Analysis`
+#### 📌 `Malware Analysis, Binary Analysis & Non-executable File Analysis`
 - Conduct comprehensive static and dynamic analysis of **executable binaries (e.g., EXE, ELF)** and **non-executable files (e.g., PDF, MS Office, image files)**  
 - Apply **machine learning and deep learning techniques** to derive meaningful features and enhance malware detection performance  
 - Utilize advanced tools such as **IDA Pro, Cuckoo Sandbox, Intel PIN, and PDF analyzers** for in-depth behavioral and structural analysis of malicious artifacts  
 
-#### `Data-Driven Cybersecurity`
+#### 📌 `Data-Driven Cybersecurity`
 - Develop intelligent malware detection and classification models using **supervised, unsupervised, and ensemble learning techniques**  
 - Apply **data science and reinforcement learning** to automate vulnerability discovery and improve symbolic execution  
 - Explore **multi-modal neural networks, graph-based models, and large-scale data analytics** to strengthen defenses against Android malware and advanced persistent threats  
 
-#### `IoT Security & Firmware Vulnerability Analysis`
+#### 📌 `IoT Security & Firmware Vulnerability Analysis`
 - Perform **static analysis, symbolic execution, and automated vulnerability scanning** on IoT firmware and embedded systems  
 - Apply **fuzz testing methodologies** to uncover hidden flaws in resource-constrained devices  
 - Research secure **firmware update mechanisms and lightweight protection strategies** to safeguard IoT environments  
 
-#### `Mobility & Automotive Cybersecurity`
+#### 📌 `Mobility & Automotive Cybersecurity`
 - Design and evaluate **AI-powered anomaly detection systems** for in-vehicle networks (e.g., CAN protocol)  
 - Investigate **attack surfaces, exploitation techniques, and countermeasures** in next-generation automotive security  
 - Build **intrusion detection and mitigation frameworks** for connected and autonomous vehicle ecosystems  
