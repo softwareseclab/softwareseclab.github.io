@@ -12,10 +12,10 @@ social: false  # includes social icons at the bottom of the page
 👋🏻 Welcome to the ***Software Security Lab*** at [Hanyang University](https://www.hanyang.ac.kr/)
 
 <p>
-    Our laboratory is dedicated to advancing the frontier of software security and cybersecurity research.  
-    We conduct both theoretical and applied research to address emerging threats in malware, non-executable file exploitation, IoT and automotive systems, and AI-driven security.  
-    By integrating data-driven methodologies, advanced machine learning and deep learning models, and practical system-level analysis tools, our mission is to provide robust, scalable, and intelligent security solutions that can be applied to real-world environments.  
-    Our research aims not only to contribute academically, but also to support the global community in mitigating evolving cyber threats.
+    Our laboratory advances research in software security and cybersecurity.  
+    We conduct theoretical and applied studies to address emerging threats in malware, non-executable document exploitation (e.g., PDF, Office, images), IoT and automotive systems, and AI-applied cybersecurity.  
+    By integrating data-driven methods, modern machine and deep learning, and system-level analysis tools (e.g., dynamic instrumentation and sandboxing), we design and evaluate robust, scalable detection and mitigation techniques for real-world use.  
+    Our work aims not only to contribute academically, but also to develop practical approaches for mitigating evolving cyber threats.
 </p>
 ![](/assets/img/landing_img.png){: width="100%" height="auto"}
 
@@ -41,11 +41,6 @@ social: false  # includes social icons at the bottom of the page
 - Design and evaluate **AI-powered anomaly detection systems** for in-vehicle networks (e.g., CAN protocol)  
 - Investigate **attack surfaces, exploitation techniques, and countermeasures** in next-generation automotive security  
 - Build **intrusion detection and mitigation frameworks** for connected and autonomous vehicle ecosystems  
-
-<p>
-    Our lab pursues innovative, data-centric, and system-level approaches to address the challenges of modern cybersecurity.  
-    Through collaboration with academia and industry, we aim to foster secure, resilient, and trustworthy digital infrastructures for the future.
-</p>
 
 ---
 
