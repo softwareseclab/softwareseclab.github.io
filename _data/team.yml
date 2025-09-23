@@ -116,6 +116,13 @@
     introduction: "Research Area: Abnormal Log file Analysis & Detection" 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
+  
+  - name: ["Songhyun", "Cheon"]
+    subtitle: "Master's Student, Department of Computer Science (since 2025.09 ~ )"
+    # email: @hanyang.ac.kr
+    introduction: "Research Area: Malware Analysis & AI-applied Cybersecurity" 
+    photo: /assets/img/profile/default_profile.png
+    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
 
 # --- Section 구분 ---
 
