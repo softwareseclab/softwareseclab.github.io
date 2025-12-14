@@ -108,25 +108,21 @@
     introduction: "Research Area: Malware Detection" 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-
-# --- Section 구분 ---
-
-#  "🎓 Undergraduate Student":
   
 # --- Section 구분 ---
 
 "🎓 Alumni":
   - name: ["전혜민"]
-        subtitle: "(M.S.) 정보보안학과 | - "
-        photo: /assets/img/profile/default_profile.png
+    subtitle: "(M.S.) 정보보안학과 | - "
+    photo: /assets/img/profile/default_profile.png
 
   - name: ["김태영"]
-        subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 국방부"
-        photo: /assets/img/profile/default_profile.png  
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 국방부"
+    photo: /assets/img/profile/default_profile.png  
 
   - name: ["Shabnur"]
-      subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | - "
-      photo: /assets/img/profile/default_profile.png
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | - "
+    photo: /assets/img/profile/default_profile.png
 
   - name: ["YANG LUOFAN"]
     subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | - "
