@@ -59,7 +59,7 @@
 
   - name: ["Doo-Seop", "Choi"]
     subtitle: "Ph.D. Candidate, Department of Computer Science (since 2022.03 ~ )"
-    introduction: "Research Area: AI-applied Cybersecurity, Malware(Non-Executable files) Detection, Intrusion Detection"
+    introduction: "Research Area: AI for Threats Detection, Malware(Non-Executable files) Detection, Intrusion Detection"
     email: dslab0915@hanyang.ac.kr
     photo: /assets/img/profile/default_profile.png
     scholar: https://scholar.google.com/citations?user=YTLlDpgAAAAJ
@@ -74,28 +74,7 @@
 
 # --- Section 구분 ---
 
-"🎓 M.S. Students":      
-  - name: ["Hye-Min", "Jeon"]
-    subtitle: "Master's Student, Department of Information Security (since 2023.03 ~ )"
-    # email: crow0506@hanyang.ac.kr
-    introduction: "Research Area: Malware Analysis, Ransomware Detection" 
-    photo: /assets/img/profile/default_profile.png
-    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-
-  - name: ["Shabnur", " "]
-    subtitle: "Master's Student, Department of Computer Science (since 2023.09 ~ )"
-    # email: @hanyang.ac.kr
-    introduction: "Research Area: IoT Security" 
-    photo: /assets/img/profile/default_profile.png
-    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-  
-  - name: ["Tae Young", "Kim"]
-    subtitle: "Master's Student, Department of Computer Science (since 2024.03 ~ )"
-    # email: @hanyang.ac.kr
-    introduction: "Research Area: Cybersecurity" 
-    photo: /assets/img/profile/default_profile.png
-    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-
+"🎓 M.S. Students":
   - name: ["Qinghua", "Wang"]
     subtitle: "Master's Student, Department of Computer Science (since 2024.09 ~ )"
     # email: @hanyang.ac.kr
@@ -123,19 +102,32 @@
     introduction: "Research Area: Malware Analysis & AI-applied Cybersecurity" 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-
-# --- Section 구분 ---
-
-"🎓 Undergraduate Student":
+    
   - name: ["Hyeon Woo", "Kim"]
-    subtitle: "Undergraduate Student, Department of Computer Science (since 2025.07 ~ )"
-    introduction: "Research Area: Malware Detection, AI-applied Cybersecurity" 
+    subtitle: "Master's Student, Department of Computer Science (since 2026.03 ~ )"
+    introduction: "Research Area: Malware Detection" 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
 
 # --- Section 구분 ---
 
+#  "🎓 Undergraduate Student":
+  
+# --- Section 구분 ---
+
 "🎓 Alumni":
+  - name: ["전혜민"]
+        subtitle: "(M.S.) 정보보안학과 | - "
+        photo: /assets/img/profile/default_profile.png
+
+  - name: ["김태영"]
+        subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | 국방부"
+        photo: /assets/img/profile/default_profile.png  
+
+  - name: ["Shabnur"]
+      subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | - "
+      photo: /assets/img/profile/default_profile.png
+
   - name: ["YANG LUOFAN"]
     subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | - "
     photo: /assets/img/profile/default_profile.png
