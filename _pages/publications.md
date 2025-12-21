@@ -10,7 +10,7 @@ nav_order: 2
 
 #### ***📄 International Publications*** 
 <details>
-  <summary>Click to expand International Publications</summary>
+  <summary>International Publications</summary>
     <ul>
         <li>(Journal) Doo-Seop Choi, Taeguen Kim, Boojoong Kang, Eul Gyu Im, "Machine Learning-Based Detection Method for Malicious PDF files: A Temporal Classification Approach", Elsevier Applied Soft Computing (Accepted), 2025 [SCIE Q1, IF: 6.6 (JCR 2024)]</li>
         <li>(Journal) Rai, Andri, and Eul Gyu Im. "MemCatcher: An In-Depth Analysis Approach to Detect In-Memory Malware." Applied Sciences 15.21 (2025): 11800. 2025 [SCIE Q2, IF: 2.5 (JCR 2024)]</li>
@@ -91,7 +91,7 @@ nav_order: 2
 #### ***📄 Domestic Publications*** 
 
 <details>
-    <summary>Click to expand Domestic Publications</summary>
+    <summary>Domestic Publications</summary>
     <ul>
         <li>(Journal) Doo-Seop Choi and Eul Gyu Im “Design of a Cloud-based Integrated Security Software Framework for Android Automotive OS Vehicles“ The Journal of Korean Institute of Next Generation Computing 21.3 pp. 7 - 20. (2025): 7.</li>
         <li>(Conference) Jeon, Hye-Min, Doo-Seop Choi, and Eul Gyu Im. "A Comprehensive Performance Evaluation of a Ransomware Detection Model Based on Feature Importance Analysis." Annual Conference of KIPS. Korea Information Processing Society, 2025. (<code>Best Paper Award</code>)</li>
