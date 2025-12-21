@@ -12,22 +12,22 @@ nav_order: 2
 <details>
   <summary>Click to expand International Publications</summary>
     <ul>
-        <li>(Journal) Doo-Seop Choi, Taeguen Kim, Boojoong Kang, Eul Gyu Im, "Machine Learning-Based Detection Method for Malicious PDF files: A Temporal Classification Approach", Elsevier Applied Soft Computing (Accepted), 2025 [SCIE, IF: 6.6, Q1 (JCR 2024)]</li>
-        <li>(Journal) Rai, Andri, and Eul Gyu Im. "MemCatcher: An In-Depth Analysis Approach to Detect In-Memory Malware." Applied Sciences 15.21 (2025): 11800. 2025 [SCIE, IF: 2.5, Q2 (JCR 2024)]</li>
-        <li>(Journal) Doo-Seop Choi, Taeguen Kim, Boojoong Kang, Eul Gyu Im, "Image-Based Malicious Network Traffic Detection Framework: Data-Centric Approach.", Applied Sciences, 15(12), 6546, 2025 [SCIE, IF: 2.5, Q2 (JCR 2024)]</li>
+        <li>(Journal) Doo-Seop Choi, Taeguen Kim, Boojoong Kang, Eul Gyu Im, "Machine Learning-Based Detection Method for Malicious PDF files: A Temporal Classification Approach", Elsevier Applied Soft Computing (Accepted), 2025 [SCIE Q1, IF: 6.6 (JCR 2024)]</li>
+        <li>(Journal) Rai, Andri, and Eul Gyu Im. "MemCatcher: An In-Depth Analysis Approach to Detect In-Memory Malware." Applied Sciences 15.21 (2025): 11800. 2025 [SCIE Q2, IF: 2.5 (JCR 2024)]</li>
+        <li>(Journal) Doo-Seop Choi, Taeguen Kim, Boojoong Kang, Eul Gyu Im, "Image-Based Malicious Network Traffic Detection Framework: Data-Centric Approach.", Applied Sciences, 15(12), 6546, 2025 [SCIE Q2, IF: 2.5 (JCR 2024)]</li>
         <li>(Conference) Andri Rai, Eul Gyu Im, "Multi-NetDroid: Multi-layer Perceptron Neural Network for Android Malware Detection", International Conference on Ubiquitous Security, 219-235, 2023</li>
-        <li>(Journal) Inwoo Ro, Boojoong Kang, Choonghyun Seo, Eul Gyu Im, "Detection Method for Randomly Generated User IDs: Lift the Curse of Dimensionality", IEEE Access, 10., 86020-86028, 2022 [SCIE, IF: 3.9, Q2 (JCR 2022)]</li>
-        <li>(Journal) Seong Il Bae, Gyu Bin Lee, Eul Gyu Im, "Ransomware detection using machine learning algorithms", Concurrency and Computation: Practice and Experience, 32.18, e5422, 2020 [SCIE, IF: 1.536, Q3 (JCR 2020)]</li>
-        <li>(Journal) ByeongHo Jung, Seong Il Bae, Chang Choi, Eul Gyu Im, "Packer identification method based on byte sequences", Concurrency and Computation: Practice and Experience, 32.8, e5082, 2020 [SCIE, IF: 1.536, Q3 (JCR 2020)]</li>
+        <li>(Journal) Inwoo Ro, Boojoong Kang, Choonghyun Seo, Eul Gyu Im, "Detection Method for Randomly Generated User IDs: Lift the Curse of Dimensionality", IEEE Access, 10., 86020-86028, 2022 [SCIE Q2, IF: 3.9 (JCR 2022)]</li>
+        <li>(Journal) Seong Il Bae, Gyu Bin Lee, Eul Gyu Im, "Ransomware detection using machine learning algorithms", Concurrency and Computation: Practice and Experience, 32.18, e5422, 2020 [SCIE Q3, IF: 1.536 (JCR 2020)]</li>
+        <li>(Journal) ByeongHo Jung, Seong Il Bae, Chang Choi, Eul Gyu Im, "Packer identification method based on byte sequences", Concurrency and Computation: Practice and Experience, 32.8, e5082, 2020 [SCIE Q3, IF: 1.536 (JCR 2020)]</li>
         <li>Soo Han Kim, Jong Hyun Kim, Eul Gyu Im, "Malware Family Classification Model using Xception Network", 2020</li>
         <li>Jun Young Chang, Eul Gyu Im, "Data Poisoning Attack on Random Forest Classification Model", 2020</li>
         <li>Seong Il Bae, Soo Han Kim, Eul Gyu Im, "Automatic hybrid analysis technique to improve botnet code coverage using fake server", Proceedings of the Conference on Research in Adaptive and Convergent Systems, 276-282, 2019</li>
         <li>Jong Youn Lee, Jun Young Chang, Eul Gyu Im, "DGA-based malware detection using DNS traffic analysis", Proceedings of the Conference on Research in Adaptive and Convergent Systems, 283-288, 2019</li>
         <li>TaeGuen Kim, Yeo Reum Lee, BooJoong Kang, Eul Gyu Im, "Binary executable file similarity calculation using function matching", The Journal of Supercomputing, 75.2, 607-622, 2019</li>
-        <li>Inwoo Ro, Joong Soo Han, Eul Gyu Im, "Detection Method for Distributed Web-Crawlers: A Long-Tail Threshold Model", Security and Communication Networks, 2018 [SCIE, IF: 1.376, Q3 (JCR 2018)]</li>
+        <li>Inwoo Ro, Joong Soo Han, Eul Gyu Im, "Detection Method for Distributed Web-Crawlers: A Long-Tail Threshold Model", Security and Communication Networks, 2018 [SCIE Q3, IF: 1.376 (JCR 2018)]</li>
         <li>Byungho Jung, Taeguen Kim, Eul Gyu Im, "Malware classification using byte sequence information", Proceedings of the 2018 Conference on Research in Adaptive and Convergent Systems, 143-148, 2018</li>
-        <li>TaeGuen Kim, BooJoong Kang, Mina Rho, Sakir Sezer, Eul Gyu Im, "A multimodal deep learning method for android malware detection using various features", IEEE Transactions on Information Forensics and Security, 14.3, 773-788, 2018 [SCIE, IF: 6.211, Q1 (JCR 2018)]</li>
-        <li>TaeGuen Kim, BooJoong Kang, Eul Gyu Im, "Runtime detection framework for android malware", Mobile Information Systems, 2018 [SCIE, IF: 1.635, Q3 (JCR 2018)]</li>
+        <li>TaeGuen Kim, BooJoong Kang, Mina Rho, Sakir Sezer, Eul Gyu Im, "A multimodal deep learning method for android malware detection using various features", IEEE Transactions on Information Forensics and Security, 14.3, 773-788, 2018 [SCIE Q1, IF: 6.2 (JCR 2018)]</li>
+        <li>TaeGuen Kim, BooJoong Kang, Eul Gyu Im, "Runtime detection framework for android malware", Mobile Information Systems, 2018 [SCIE Q3, IF: 1.6 (JCR 2018)]</li>
         <li>Iltaek Kwon, Eul Gyu Im, "Extracting the representative API call patterns of malware families using recurrent neural network", Proceedings of the International Conference on Research in Adaptive and Convergent Systems, 202-207, 2017</li>
         <li>Byeongho Kang, TaeGuen Kim, Junhyoung Kim, Eul Gyu Im, "A Dynamic Taint Analysis Method of Control-Dependent Data", International Information Institute (Tokyo). Information, 19.11A, 5245, 2016</li>
         <li>Tae Kyong Lee, Tae Guen Kim, Eul Gyu Im, "User authentication method using shaking actions in mobile devices", Proceedings of the International Conference on Research in Adaptive and Convergent Systems, 142-147, 2016</li>
