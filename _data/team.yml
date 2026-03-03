@@ -17,35 +17,35 @@
 
 # --- Section 구분 ---
 
-# "🎓 Notable Alumni":
-#   - name: ["Boojoong", "Kang"]
-#     subtitle: "Assistant Professor at University of Southampton"
-#     introduction: "2021.01 ~ present - Assistant Professor at University of Southampton, UK <br>
-#                    2013.09 ~ 2020.12 - Centre for Secure Information Technology, Queens University of Belfast, UK <br>
-#                    2013.08 - Ph.D.(Hanyang University)"
-#     email: b.kang@soton.ac.uk
-#     photo: /assets/img/profile/default_profile.png
-#     scholar: https://scholar.google.com/citations?user=pmH4mq8AAAAJ&hl=ko
+"🎓 Notable Alumni":
+  - name: ["Boojoong", "Kang"]
+    subtitle: "Assistant Professor at University of Southampton"
+    introduction: "2021.01 ~ present - Assistant Professor at University of Southampton, UK <br>
+                   2013.09 ~ 2020.12 - Centre for Secure Information Technology, Queens University of Belfast, UK <br>
+                   2013.08 - Ph.D.(Hanyang University)"
+    email: b.kang@soton.ac.uk
+    photo: /assets/img/profile/default_profile.png
+    scholar: https://scholar.google.com/citations?user=pmH4mq8AAAAJ&hl=ko
 
 
-#   - name: ["Kyungsoo", "Han"]
-#     subtitle: "Shinhan Financial Group Co., Ltd."
-#     introduction: ""
-#     # email: appff@kaist.ac.kr
-#     photo: /assets/img/profile/default_profile.png
+  - name: ["Kyungsoo", "Han"]
+    subtitle: "Shinhan Financial Group Co., Ltd."
+    introduction: ""
+    # email: appff@kaist.ac.kr
+    photo: /assets/img/profile/default_profile.png
   
 
-#   - name: ["Taeguen", "Kim"]
-#     subtitle: "Assistant Professor at Korea University (Sejong)"
-#     introduction: "2024.09 ~ present - Assistant Professor, Korea University (Sejong) <br>
-#                    2021.03 ~ 2024.08 - Assistant Professor, SoonChunHyang University <br>
-#                    2018.08 ~ 2021.02 - Senior Researcher, Hyundai motors group <br>
-#                    2018.08 - Ph.D.(Hanyang University) <br>
-#                    2013.02 - M.S.(Hanyang University) <br>
-#                    2011.02 - B.S.(Hanyang University)"
-#     email: tg_kim@korea.ac.kr
-#     photo: /assets/img/profile/default_profile.png
-#     scholar: https://scholar.google.com/citations?user=b6ha7-8AAAAJ&hl=ko&oi=ao
+  - name: ["Taeguen", "Kim"]
+    subtitle: "Assistant Professor at Korea University (Sejong)"
+    introduction: "2024.09 ~ present - Assistant Professor, Korea University (Sejong) <br>
+                   2021.03 ~ 2024.08 - Assistant Professor, SoonChunHyang University <br>
+                   2018.08 ~ 2021.02 - Senior Researcher, Hyundai motors group <br>
+                   2018.08 - Ph.D.(Hanyang University) <br>
+                   2013.02 - M.S.(Hanyang University) <br>
+                   2011.02 - B.S.(Hanyang University)"
+    email: tg_kim@korea.ac.kr
+    photo: /assets/img/profile/default_profile.png
+    scholar: https://scholar.google.com/citations?user=b6ha7-8AAAAJ&hl=ko&oi=ao
 
 # --- Section 구분 ---
 
@@ -106,10 +106,16 @@
   - name: ["Hyeon Woo", "Kim"]
     subtitle: "Master's Student, Department of Computer Science (since 2026.03 ~ )"
     # email: @hanyang.ac.kr
-    introduction: "Research Area: Malware Detection" 
+    introduction: "Research Area: Malware Analysis & Cybersecurity" 
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-  
+
+  - name: ["Hyuna", "Kim"]
+    subtitle: "Master's Student, Department of Computer Science (since 2026.03 ~ )"
+    # email: @hanyang.ac.kr
+    introduction: "Research Area: Malware Analysis & System Security" 
+    photo: /assets/img/profile/default_profile.png
+    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)  
 # --- Section 구분 ---
 
 "🎓 Alumni":
