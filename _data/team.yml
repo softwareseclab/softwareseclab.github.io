@@ -106,16 +106,24 @@
   - name: ["Hyeon Woo", "Kim"]
     subtitle: "Master's Student, Department of Computer Science (since 2026.03 ~ )"
     # email: @hanyang.ac.kr
-    introduction: "Research Area: Malware Analysis & Cybersecurity" 
+    introduction: "Research Area: Malware Analysis & Cybersecurity"
     photo: /assets/img/profile/default_profile.png
     location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
 
   - name: ["Hyuna", "Kim"]
     subtitle: "Master's Student, Department of Computer Science (since 2026.03 ~ )"
     # email: @hanyang.ac.kr
-    introduction: "Research Area: Malware Analysis & System Security" 
+    introduction: "Research Area: Malware Analysis & System Security"
     photo: /assets/img/profile/default_profile.png
-    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)  
+    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
+
+  - name: ["Jinpyo", "Lee"]
+    subtitle: "Master's Student, Department of Computer Science (since 2026.03 ~ )"
+    # email: @hanyang.ac.kr
+    introduction: "Research Area: Network Traffic Analysis"
+    photo: /assets/img/profile/default_profile.png
+    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
+
 # --- Section 구분 ---
 
 "🎓 Alumni":
