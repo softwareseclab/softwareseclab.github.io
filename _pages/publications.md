@@ -12,9 +12,9 @@ nav_order: 2
 <details>
   <summary>International Publications</summary>
     <ul>
-        <li>(Journal) Doo-Seop Choi, Taeguen Kim, BooJoong Kang, Eul Gyu Im, "Machine Learning-Based Detection Method for Malicious PDF files: A Temporal Classification Approach", Applied Soft Computing, 114461, 2025 [SCIE Q1, IF: 6.6 (JCR 2024)]</li>
-        <li>(Journal) Rai, Andri, and Eul Gyu Im. "MemCatcher: An In-Depth Analysis Approach to Detect In-Memory Malware." Applied Sciences 15.21 (2025): 11800. 2025 [SCIE Q2, IF: 2.5 (JCR 2024)]</li>
-        <li>(Journal) Doo-Seop Choi, Taeguen Kim, Boojoong Kang, Eul Gyu Im, "Image-Based Malicious Network Traffic Detection Framework: Data-Centric Approach.", Applied Sciences, 15(12), 6546, 2025 [SCIE Q2, IF: 2.5 (JCR 2024)]</li>
+        <li>(Journal) Doo-Seop Choi, Taeguen Kim, BooJoong Kang, Eul Gyu Im, "Machine Learning-Based Detection Method for Malicious PDF files: A Temporal Classification Approach", Applied Soft Computing, 114461, 2025 [SCIE Q1, IF: 7.8 (JCR 2025)]</li>
+        <li>(Journal) Rai, Andri, and Eul Gyu Im. "MemCatcher: An In-Depth Analysis Approach to Detect In-Memory Malware." Applied Sciences 15.21 (2025): 11800. 2025 [SCIE Q2, IF: 2.9 (JCR 2025)]</li>
+        <li>(Journal) Doo-Seop Choi, Taeguen Kim, Boojoong Kang, Eul Gyu Im, "Image-Based Malicious Network Traffic Detection Framework: Data-Centric Approach.", Applied Sciences, 15(12), 6546, 2025 [SCIE Q2, IF: 2.9 (JCR 2025)]</li>
         <li>(Conference) Andri Rai, Eul Gyu Im, "Multi-NetDroid: Multi-layer Perceptron Neural Network for Android Malware Detection", International Conference on Ubiquitous Security, 219-235, 2023</li>
         <li>(Journal) Inwoo Ro, Boojoong Kang, Choonghyun Seo, Eul Gyu Im, "Detection Method for Randomly Generated User IDs: Lift the Curse of Dimensionality", IEEE Access, 10., 86020-86028, 2022 [SCIE Q2, IF: 3.9 (JCR 2022)]</li>
         <li>(Journal) Seong Il Bae, Gyu Bin Lee, Eul Gyu Im, "Ransomware detection using machine learning algorithms", Concurrency and Computation: Practice and Experience, 32.18, e5422, 2020 [SCIE Q3, IF: 1.536 (JCR 2020)]</li>
