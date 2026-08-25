@@ -75,13 +75,6 @@
 # --- Section 구분 ---
 
 "🎓 M.S. Students":
-  - name: ["Qinghua", "Wang"]
-    subtitle: "Master's Student, Department of Computer Science (since 2024.09 ~ )"
-    # email: @hanyang.ac.kr
-    introduction: "Research Area: Information Security" 
-    photo: /assets/img/profile/default_profile.png
-    location:  704, IT/BT, Hanyang University (222 Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea)
-  
   - name: ["Jeongyun", "Lee"]
     subtitle: "Master's Student, Department of Information Security (since 2025.03 ~ )"
     # email: @hanyang.ac.kr
@@ -127,6 +120,10 @@
 # --- Section 구분 ---
 
 "🎓 Alumni":
+  - name: ["왕청하"]
+    subtitle: "(M.S.) 컴퓨터·소프트웨어학과 | " 
+    photo: /assets/img/profile/default_profile.png
+
   - name: ["전혜민"]
     subtitle: "(M.S.) 정보보안학과 | - "
     photo: /assets/img/profile/default_profile.png
