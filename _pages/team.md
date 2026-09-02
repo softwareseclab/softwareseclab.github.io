@@ -51,19 +51,19 @@ nav: true
                     <div class="toolbar">
                     </div>
                     {% if member.email %}
-                      <a href="mailto:{{member.email}}" class="card-link"><i class="fas fa-envelope"></i></a>
+                      <a href="mailto:{{member.email}}" class="card-link" title="Email" aria-label="Email"><i class="fas fa-envelope"></i></a>
                     {% endif %}
                     {% if member.homepage %}
-                      <a href="{{member.homepage}}" class="card-link"><i class="fas fa-home"></i></a>
+                      <a href="{{member.homepage}}" class="card-link" title="Homepage" aria-label="Homepage"><i class="fas fa-home"></i></a>
                     {% endif %}
                     {% if member.linkedin %}
-                      <a href="{{member.linkedin}}" class="card-link" target="_blank"><i class="fab fa-linkedin"></i></a>
+                      <a href="{{member.linkedin}}" class="card-link" target="_blank" title="LinkedIn" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
                     {% endif %}
                     {% if member.scholar %}
-                      <a href="{{member.scholar}}" class="card-link" target="_blank"><i class="ai ai-google-scholar"></i></a>
+                      <a href="{{member.scholar}}" class="card-link" target="_blank" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
                     {% endif %}
                     {% if member.github %}
-                      <a href="{{member.github}}" class="card-link" target="_blank"><i class="fab fa-github"></i></a>
+                      <a href="{{member.github}}" class="card-link" target="_blank" title="GitHub" aria-label="GitHub"><i class="fab fa-github"></i></a>
                     {% endif %}
                     {% if member.location %}
                     <p class="card-text">
@@ -85,4 +85,4 @@ nav: true
 
 <footer>
   <p>본 웹사이트는 이메일 무단 수집을 거부합니다. (Unauthorized collection of email addresses from this website is prohibited.)</p>
-</footer> 
+</footer>
